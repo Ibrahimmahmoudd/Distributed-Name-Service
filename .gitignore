@@ -1,0 +1,21 @@
+# Java build artifacts
+bin/
+out/
+*.class
+*.jar
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.project
+*.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build tools
+.gradle/
+build/
+target/
