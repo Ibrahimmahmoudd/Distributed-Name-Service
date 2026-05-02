@@ -56,7 +56,7 @@ public class Nameclient {
                 try {
                     choice = Integer.parseInt(input);
                 } catch (NumberFormatException e) {
-                    System.out.println("Invalid input — please enter a number (1-4).\n");
+                    System.out.println("Invalid input - please enter a number (1-4).\n");
                     continue;
                 }
 
